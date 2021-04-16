@@ -2,10 +2,10 @@
 R commands for RNA-seq analysis
 
 ## DGEList.R
-Create file for Gene Set Enrichment Analysis (GSEA)
+Create file for Gene Set Enrichment Analysis. (GSEA)
 
 ## count.R
-
+Make data frame for each htseq-count files.
 
 ## edgeR.R
 edgeR, differential expression analysis
