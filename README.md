@@ -1,7 +1,7 @@
 # RNA-seq
 R commands for RNA-seq analysis
 
-## GSEA
+## Gene Set Enrichment Analysis (GSEA)
 ### DGEList.R
 Create file for Gene Set Enrichment Analysis. (GSEA)
 
